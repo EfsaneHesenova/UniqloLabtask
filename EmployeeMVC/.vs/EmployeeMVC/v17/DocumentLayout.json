@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\views\\master\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\views\\master\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Program.cs",
+              "RelativeToolTip": "EmployeeMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:56:34.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Service.cs",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:44:33.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Order.cs",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:44:31.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Master.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Master.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Master.cs",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:36:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:32:04.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Master\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Views\\Master\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Master\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Views\\Master\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:31:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAAALABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:29:35.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAAAFkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:28:51.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:26:01.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:23:25.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:22:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeMVC\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:21:18.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Controllers\\MasterController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:18:25.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:17:57.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:17:27.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

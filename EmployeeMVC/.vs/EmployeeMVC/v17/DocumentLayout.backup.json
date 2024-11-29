@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\models\\masters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\masters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\employeemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\employeemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\ii novbe\\source\\repos\\employeemvc\\employeemvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E34E5A-D6EA-494D-ACC8-333B902E7AD1}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T11:27:21.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T11:27:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:24:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:24:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:23:52.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:23:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\Services\\Index.cshtml*",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Services\\Index.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T11:21:34.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\About\\Index.cshtml*",
+              "RelativeToolTip": "EmployeeMVC\\Views\\About\\Index.cshtml*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T11:17:17.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T11:17:09.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "EmployeeMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "EmployeeMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-29T11:12:15.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\appsettings.json",
+              "RelativeToolTip": "EmployeeMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T11:10:18.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Orders.cs*",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Orders.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:00:42.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Masters.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Masters.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Masters.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Masters.cs*",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Masters.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:00:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Services.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Services.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Services.cs*",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Services.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:00:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:58:03.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Base\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Models\\Base\\BaseAuditableEntity.cs*",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Base\\BaseAuditableEntity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:49:39.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Program.cs",
+              "RelativeToolTip": "EmployeeMVC\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:41:45.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeMVC\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:40:31.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAYwN0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:28:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:24:46.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\EmployeeMVC.csproj",
+              "RelativeDocumentMoniker": "EmployeeMVC\\EmployeeMVC.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EmployeeMVC\\EmployeeMVC\\EmployeeMVC.csproj",
+              "RelativeToolTip": "EmployeeMVC\\EmployeeMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T10:21:37.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
