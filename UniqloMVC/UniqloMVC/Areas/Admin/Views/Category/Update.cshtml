@@ -1,0 +1,13 @@
+﻿@using UniqloMVC.Models;
+@model Category;
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input class="form-control" asp-for="Title">
+    </div>
+    <div class="form-group">
+        <label asp-for=" Description"></label>
+        <input class="form-control" asp-for=" Description">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

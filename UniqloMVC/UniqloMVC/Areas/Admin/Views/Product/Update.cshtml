@@ -1,0 +1,17 @@
+﻿@using UniqloMVC.Models;
+@model Product;
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input class="form-control" asp-for="Title">
+    </div>
+    <div class="form-group">
+        <label asp-for=" Price"></label>
+        <input class="form-control" asp-for=" Price">
+    </div>
+    <div class="form-group">
+        <label asp-for="ImgUrl"></label>
+        <input class="form-control" asp-for="ImgUrl">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

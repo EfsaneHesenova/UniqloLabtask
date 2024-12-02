@@ -7602,11 +7602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\UniqloMVC\\UniqloMVC\\UniqloMVC.csproj",
+      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\UniqloLabtask\\UniqloMVC\\UniqloMVC\\UniqloMVC.csproj",
       "projectName": "UniqloMVC",
-      "projectPath": "C:\\Users\\II Novbe\\source\\repos\\UniqloMVC\\UniqloMVC\\UniqloMVC.csproj",
+      "projectPath": "C:\\Users\\II Novbe\\Desktop\\UniqloLabtask\\UniqloMVC\\UniqloMVC\\UniqloMVC.csproj",
       "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\source\\repos\\UniqloMVC\\UniqloMVC\\obj\\",
+      "outputPath": "C:\\Users\\II Novbe\\Desktop\\UniqloLabtask\\UniqloMVC\\UniqloMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
