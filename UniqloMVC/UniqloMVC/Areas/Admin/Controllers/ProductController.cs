@@ -25,7 +25,15 @@ namespace UniqloMVC.Areas.Admin.Controllers
 
         public IActionResult Create()
         {
-            return View();
+            ProductVM model = new ProductVM()
+            {
+                Categories = _context.Categories.Where(d =>  !d.IsDeleted).Select(d => new SelectListItem
+                {
+                    Value = d.Id.ToString(),
+                    Text = d.Title
+                })
+            };
+            return View(model);
         }
 
         [HttpPost]
@@ -33,7 +41,16 @@ namespace UniqloMVC.Areas.Admin.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return View(product);
+                ProductVM model = new ProductVM()
+                {
+                    Categories = _context.Categories.Where(d => !d.IsDeleted).Select(d => new SelectListItem
+                    {
+                        Value = d.Id.ToString(),
+                        Text = d.Title
+                    }),
+                    Product = product
+                };
+                return View(model);
             }
             _context.Products.Add(product);
             _context.SaveChanges();
@@ -53,13 +70,6 @@ namespace UniqloMVC.Areas.Admin.Controllers
         }
 
 
-
-
-
-
-
-
-
         public IActionResult Update(int id)
         {
             Product? updatedproduct = _context.Products.Find(id);
@@ -70,18 +80,55 @@ namespace UniqloMVC.Areas.Admin.Controllers
 
             ProductVM model = new ProductVM()
             {
-                Product = updatedproduct,
-                Categories = _context.Categories.Where(d => !d.IsDeleted)
-                                          .Select(d => new SelectListItem
-                                          {
-                                              Value = d.Id.ToString(),
-                                              Text = d.Title
-                                          }).ToList(),
+                Categories = _context.Categories.Where(d => !d.IsDeleted).Select(d => new SelectListItem
+                {
+                    Value = d.Id.ToString(),
+                    Text = d.Title
+                }),
+                Product = updatedproduct
             };
 
             return View(model);
         }
 
+
+
+       
+
+        [HttpPost]
+        public IActionResult Update(int id, Product product)
+        {
+            Product? updatedproduct = _context.Products.Find(id);
+            if (updatedproduct == null)
+            {
+                return NotFound();
+            }
+
+            if (!ModelState.IsValid)
+            {
+                ProductVM model = new ProductVM()
+                {
+                    Categories = _context.Categories.Where(d => !d.IsDeleted).Select(d => new SelectListItem
+                    {
+                        Value = d.Id.ToString(),
+                        Text = d.Title
+                    }),
+                    Product = product
+                };
+                return View(model);
+            }
+
+            updatedproduct.UpdateDate = DateTime.Now;
+            updatedproduct.CategoryId = product.CategoryId;
+            updatedproduct.Title = product.Title;
+            updatedproduct.Price = product.Price;
+            updatedproduct.ImgUrl = product.ImgUrl;
+
+            _context.Products.Update(updatedproduct);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+        }
 
 
     }

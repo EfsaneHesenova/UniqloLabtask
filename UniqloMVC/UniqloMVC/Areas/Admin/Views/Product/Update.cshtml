@@ -1,17 +1,24 @@
-﻿@using UniqloMVC.Models;
-@model Product;
+﻿@using UniqloMVC.ViewModels;
+@model ProductVM;
 <form method="post">
     <div class="form-group">
-        <label asp-for="Title"></label>
-        <input class="form-control" asp-for="Title">
+        <label asp-for="Product.Title"></label>
+        <input class="form-control" asp-for="Product.Title">
     </div>
     <div class="form-group">
-        <label asp-for=" Price"></label>
-        <input class="form-control" asp-for=" Price">
+        <label asp-for="Product.Price"></label>
+        <input class="form-control" asp-for="Product.Price">
     </div>
     <div class="form-group">
-        <label asp-for="ImgUrl"></label>
-        <input class="form-control" asp-for="ImgUrl">
+        <label asp-for="Product.ImgUrl"></label>
+        <input class="form-control" asp-for="Product.ImgUrl">
     </div>
+    <select asp-for="Product.CategoryId" class="form-control">
+        <option value="">Select Doctor</option>
+        @foreach (var item in Model.Categories)
+        {
+            <option value="@item.Value">@item.Text</option>
+        }
+    </select>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
