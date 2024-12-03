@@ -1,9 +1,10 @@
 ﻿using EmployeeMVC.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeMVC.DAL
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
@@ -19,6 +20,18 @@ namespace EmployeeMVC.DAL
                 .HasOne(s => s.Service)
                 .WithMany(s => s.Masters)
                 .HasForeignKey(s => s.ServiceId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Order>()
+                .HasOne(s => s.Service)
+                .WithMany(s => s.Orders)
+                .HasForeignKey(s => s.ServiceId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Order>()
+                .HasOne(s => s.Master)
+                .WithMany(s => s.Orders)
+                .HasForeignKey(s => s.MasterId)
                 .OnDelete(DeleteBehavior.Restrict);
         }
     }

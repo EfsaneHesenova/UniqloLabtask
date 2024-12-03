@@ -9,7 +9,9 @@ namespace EmployeeMVC.Models
         public string ClientPhoneNumber { get; set; }
         public string ClientEmail { get; set; }
         public int ServiceId { get; set; }
-        public int EmployeeId { get; set; }
+        public Service? Service { get; set; }
+        public int MasterId { get; set; }
+        public Master? Master { get; set; }
         public string Problem { get; set; }
         public bool IsActive { get; set; }
     }
